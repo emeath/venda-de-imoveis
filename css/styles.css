@@ -1,1 +1,18 @@
 /* CSS da página */
+
+#contact-us {
+    color: #F9995D;
+}
+
+#logo {
+    padding-left: 100px;
+}
+
+#logo-text {
+    font-family: 'Work Sans', sans-serif;
+    color: #2947A9;
+}
+
+body {
+    background: linear-gradient(71.88deg, #2947A9 -8.14%, #FFFFFF 123.34%) fixed;
+}
