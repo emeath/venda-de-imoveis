@@ -16,3 +16,18 @@
 body {
     background: linear-gradient(71.88deg, #2947A9 -8.14%, #FFFFFF 123.34%) fixed;
 }
+
+#reasons {
+    background-color: #FFFFFF;
+    padding-top: 60px;
+    padding-bottom: 90px;
+}
+
+#our-reputation {
+    margin-bottom: 80px;
+}
+
+.reputation {
+    border: 1.4px solid #E0E3EB;
+    border-radius: 4px;
+}
