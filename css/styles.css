@@ -31,7 +31,7 @@ body {
     border-radius: 4px;
 }
 
-#about-us, #reasons, #services {
+#about-us, #reasons, #services, #experience{
     background-color: #FFFFFF;
 }
 
@@ -58,4 +58,21 @@ body {
 .service-content {
     height: 180px;
     width: 370px;
+}
+
+#experience h2 {
+    font-weight: 700;
+    font-size: 48px;
+    color: #2947A9;
+}
+
+#experience p {
+    font-weight: 400;
+    font-size: 20px;
+    color: #525B7A;
+}
+
+#experience button {
+    background-color: #2947A9;
+    color: #FFFFFF;
 }
