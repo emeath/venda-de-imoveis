@@ -39,10 +39,16 @@ body {
     width: 902px;
 }
 
+#about-us button {
+    color: #2947A9;
+    font-weight: 700;
+}
+
 #about-us-box {
-    background-color: blueviolet;
-    height: 400px;
-    width: 325px;
+    background-color: #2947A9;
+    color: #fff;
+    height: 425px;
+    width: 350px;
 }
 
 #services {
