@@ -31,7 +31,7 @@ body {
     border-radius: 4px;
 }
 
-#about-us, #reasons {
+#about-us, #reasons, #services {
     background-color: #FFFFFF;
 }
 
@@ -43,4 +43,13 @@ body {
     background-color: blueviolet;
     height: 400px;
     width: 325px;
+}
+
+#services {
+    background-color: #F6F8F7;
+}
+
+.service-content {
+    height: 180px;
+    width: 370px;
 }
