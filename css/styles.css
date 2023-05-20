@@ -79,7 +79,6 @@ body {
 }
 
 #get-consultation {
-    /* background-image: url('../imgs/unsplash.svg'); */
+    background-image: url('../imgs/unsplash.svg');
     height: 300px;
-    /* back */
 }
