@@ -47,8 +47,9 @@ body {
 #about-us-box {
     background-color: #2947A9;
     color: #fff;
-    height: 425px;
-    width: 350px;
+    height: 350px;
+    width: 300px;
+    font-size: 10px;
 }
 
 #services {
@@ -75,4 +76,10 @@ body {
 #experience button {
     background-color: #2947A9;
     color: #FFFFFF;
+}
+
+#get-consultation {
+    /* background-image: url('../imgs/unsplash.svg'); */
+    height: 300px;
+    /* back */
 }
