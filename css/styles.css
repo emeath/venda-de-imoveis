@@ -31,7 +31,7 @@ body {
     border-radius: 4px;
 }
 
-#about-us, #reasons, #services, #experience{
+#about-us, #reasons, #services, #experience, #projects{
     background-color: #FFFFFF;
 }
 
@@ -82,3 +82,18 @@ body {
     background-image: url('../imgs/unsplash.svg');
     height: 300px;
 }
+
+#projects h4 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+#projects li {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    list-style-type: none;
+}
+
+
