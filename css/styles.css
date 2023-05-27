@@ -31,7 +31,7 @@ body {
     border-radius: 4px;
 }
 
-#about-us, #reasons, #services, #experience, #projects{
+#about-us, #reasons, #services, #experience, #projects {
     background-color: #FFFFFF;
 }
 
@@ -96,4 +96,27 @@ body {
     list-style-type: none;
 }
 
+#contact {
+    background-color: #F6F8F7;
+    font-family: 'Work Sans', sans-serif;
+}
 
+#contact h4 {
+    font-weight: 700;
+    font-size: 36px;
+}
+
+#contact p {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#contact .mandatory::placeholder {
+    color: rgb(31, 12, 108);
+    font-weight: bold;
+    opacity: 0.6;
+}
+
+#contact button {
+    background-color: #2947A9;
+}
