@@ -31,7 +31,8 @@ body {
     border-radius: 4px;
 }
 
-#about-us, #reasons, #services, #experience, #projects {
+#about-us, #reasons, #services, #experience, #projects,
+#footer_top {
     background-color: #FFFFFF;
 }
 
